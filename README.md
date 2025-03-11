@@ -10,19 +10,19 @@ This dataset includes the daily historical stock prices for Google (GOOGL) spann
 
 **Column Descriptions:**
 
-**Price**: Date of the stock data (needs cleaning as the first two rows are headers).
+- **Price**: Date of the stock data (needs cleaning as the first two rows are headers).
 
-**Adj Close**: Adjusted closing price, accounting for events like dividends and splits.
+- **Adj Close**: Adjusted closing price, accounting for events like dividends and splits.
 
-**Close**: Closing price of the stock at the end of the trading day.
+- **Close**: Closing price of the stock at the end of the trading day.
 
-**High**: Highest price of the stock during the trading day.
+- **High**: Highest price of the stock during the trading day.
 
-**Low**: Lowest price of the stock during the trading day.
+- **Low**: Lowest price of the stock during the trading day.
 
-**Open**: Opening price of the stock at the start of the trading day.
+- **Open**: Opening price of the stock at the start of the trading day.
 
-**Volume**: Number of shares traded during the day.
+- **Volume**: Number of shares traded during the day.
 
 ***Dataset sourced from Kaggle.***
 
@@ -65,7 +65,7 @@ This dataset includes the daily historical stock prices for Google (GOOGL) spann
 - Python
 - TensorFlow, NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
 
-📌 Results
+## Results
 
 The model effectively captures stock price trends.
 
