@@ -28,7 +28,7 @@ This dataset includes the daily historical stock prices for Google (GOOGL) spann
 
 ## Model Architecture
 
-🔹 Data Preprocessing
+🔹 **Data Preprocessing**
 
 - Normalization using MinMaxScaler
 
@@ -36,7 +36,7 @@ This dataset includes the daily historical stock prices for Google (GOOGL) spann
 
 - Creating sequences for time-series forecasting
 
-🔹 LSTM with Attention Mechanism
+🔹 **LSTM with Attention Mechanism**
 
 - LSTM layers to capture temporal dependencies
 
